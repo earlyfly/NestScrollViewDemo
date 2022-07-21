@@ -1,0 +1,2 @@
+# NestScrollViewDemo
+解决UIScrollView嵌套UITableView引起的手势滑动问题
